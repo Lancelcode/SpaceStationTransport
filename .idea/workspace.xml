@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37bcefe3-0bb5-4582-afd8-ccb45d98ec43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assessment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SpaceStationTransport.java" afterDir="false" />
-    </list>
+    <list default="true" id="37bcefe3-0bb5-4582-afd8-ccb45d98ec43" name="Changes" comment="base to modify" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Lancelcode"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Lancelcode/SpaceStationTransport.git",
+    "accountId": "7f23c54d-7bd8-4d67-9e24-206ee41ec414"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -72,11 +76,24 @@
       <workItem from="1726577676236" duration="4282000" />
       <workItem from="1726741547192" duration="3305000" />
       <workItem from="1726828085971" duration="11000" />
-      <workItem from="1727031323606" duration="22822000" />
+      <workItem from="1727031323606" duration="23077000" />
     </task>
+    <task id="LOCAL-00001" summary="base to modify">
+      <option name="closed" value="true" />
+      <created>1727467898818</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727467898818</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="base to modify" />
+    <option name="LAST_COMMIT_MESSAGE" value="base to modify" />
   </component>
 </project>
