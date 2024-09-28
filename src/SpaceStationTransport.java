@@ -60,7 +60,8 @@ public class SpaceStationTransport {
         printBayContents(bay1, bay2, bay3);
     }
 
-    private static void loadContainersFromFile(Scanner scanner, Stack<String> container1, Stack<String> container2) {
+    private static void loadContainersFromFile(Scanner scanner, Stack<String> container1, Stack<String> container2)
+    {
         int totalPods = 0; // Total number of pods across both containers
 
         while (scanner.hasNextLine())
