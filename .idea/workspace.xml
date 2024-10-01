@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37bcefe3-0bb5-4582-afd8-ccb45d98ec43" name="Changes" comment="fix dir structure.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spaceship/SpaceShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spaceship/SpaceShip.java" afterDir="false" />
-    </list>
+    <list default="true" id="37bcefe3-0bb5-4582-afd8-ccb45d98ec43" name="Changes" comment="Embellishment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,7 +119,7 @@
       <workItem from="1727633550674" duration="1969000" />
       <workItem from="1727637622385" duration="25000" />
       <workItem from="1727728125047" duration="1146000" />
-      <workItem from="1727771594622" duration="2031000" />
+      <workItem from="1727771594622" duration="3885000" />
     </task>
     <task id="LOCAL-00001" summary="base to modify">
       <option name="closed" value="true" />
@@ -164,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727608369920</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Embellishment">
+      <option name="closed" value="true" />
+      <created>1727773840845</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727773840845</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +190,7 @@
     <MESSAGE value="base to modify" />
     <MESSAGE value="base modified and corrected, with the verbose requirements specified on the assessment." />
     <MESSAGE value="fix dir structure." />
-    <option name="LAST_COMMIT_MESSAGE" value="fix dir structure." />
+    <MESSAGE value="Embellishment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Embellishment" />
   </component>
 </project>
