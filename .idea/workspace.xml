@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37bcefe3-0bb5-4582-afd8-ccb45d98ec43" name="Changes" comment="base modified and corrected, with the verbose requirements specified on the assessment.">
+    <list default="true" id="37bcefe3-0bb5-4582-afd8-ccb45d98ec43" name="Changes" comment="fix dir structure.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/spaceship/SpaceShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spaceship/SpaceShip.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Djiby/IdeaProjects/SpaceShipSecondPart",
+    "last_opened_file_path": "C:/Users/Djiby/IdeaProjects/SpaceShipSecondArray",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -116,7 +117,12 @@
       <workItem from="1727031323606" duration="23077000" />
       <workItem from="1727553282097" duration="5410000" />
       <workItem from="1727607480371" duration="337000" />
-      <workItem from="1727607851929" duration="385000" />
+      <workItem from="1727607851929" duration="653000" />
+      <workItem from="1727617689178" duration="350000" />
+      <workItem from="1727633550674" duration="1969000" />
+      <workItem from="1727637622385" duration="25000" />
+      <workItem from="1727728125047" duration="1146000" />
+      <workItem from="1727771594622" duration="2031000" />
     </task>
     <task id="LOCAL-00001" summary="base to modify">
       <option name="closed" value="true" />
@@ -150,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727607613441</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix dir structure.">
+      <option name="closed" value="true" />
+      <created>1727608369920</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727608369920</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +184,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="base to modify" />
     <MESSAGE value="base modified and corrected, with the verbose requirements specified on the assessment." />
-    <option name="LAST_COMMIT_MESSAGE" value="base modified and corrected, with the verbose requirements specified on the assessment." />
+    <MESSAGE value="fix dir structure." />
+    <option name="LAST_COMMIT_MESSAGE" value="fix dir structure." />
   </component>
 </project>
